@@ -16,5 +16,5 @@ rows = 3
 columns = 3
 randarray=numpy.random.rand(rows,columns)
 
-self.wih = (numpy.random.rand(self.hnodes,self.inodes)-0.5)
-self.who = (numpy.random.rand(self.onodes,self.hnodes)-0.5)
+# self.wih = (numpy.random.rand(self.hnodes,self.inodes)-0.5)
+# self.who = (numpy.random.rand(self.onodes,self.hnodes)-0.5)
